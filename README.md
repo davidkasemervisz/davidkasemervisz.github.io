@@ -1,28 +1,29 @@
-David Kasemervisz
-Summary
+# David Kasemervisz
 
-I am a bioengineer and engineering management graduate student with a strong technical foundation in software development, machine learning, and hardware prototyping. I have significant experience in Python, C++, Java, and JavaScript, along with additional exposure to R, React Native, and OpenGL. Across research labs, medtech startups, and academic engineering environments, I have worked on projects that combine quantitative analysis, system design, and practical problem-solving. I enjoy building tools that are both technically rigorous and user-oriented, and I approach every project with clarity, discipline, and a focus on producing meaningful impact.
+## Summary
 
-Experience
+I am a bioengineer and engineering management graduate student with a strong technical foundation in software development, machine learning, and hardware prototyping. I have experience in Python, C++, Java, and JavaScript, as well as familiarity with R, React Native, and OpenGL. Through research labs, medtech startups, and academic engineering projects, I have worked on systems that blend analytical thinking, practical engineering, and clean software design. I enjoy building tools that solve meaningful problems and approaching every project with clarity, discipline, and a focus on real impact.
 
-My professional background spans biotechnology, medical devices, scientific computing, and clinical research. As a Microscope Programmer in the Parasite Biophysics Lab, I created Python software that interfaced directly with a STED microscope, automating image acquisition, parasite tracking, and large-scale time-lapse dataset management. My work improved workflow efficiency and supported high-throughput analysis.
+## Experience
 
-During my internship at Fogarty Innovation with G-Tech Medical, I contributed to the GutTracker™ GI motility monitoring patch. I performed hydrogel reliability experiments, conducted Fourier-transform signal analysis in Python, and measured battery power demand using C++ and NI DAQ hardware. I also gained experience in medtech innovation strategy, regulatory navigation, and investor readiness.
+My professional experience spans biotechnology, medical devices, scientific programming, and clinical research. As a microscope programmer in the Parasite Biophysics Lab, I developed Python software that interfaced with a STED microscope to automate image acquisition, parasite tracking, and large time-lapse dataset management. This work improved workflow efficiency and supported high-throughput analysis.
 
-Prior to this, I interned in a Cardiothoracic Surgery Lab, where I performed PCR-based genotyping for Loeys-Dietz Syndrome and maintained cardiac muscle cell cultures for diagnostic testing. Outside of research, I competed as an NCAA Division I wide receiver at Stanford and Rice, where I developed discipline, resilience, and time-management skills, earning Academic All-Conference honors and serving twice as team captain. My role as Chairman of the Girard Debate Society strengthened my leadership, communication, and critical thinking as I organized debates and managed alumni relations.
+At Fogarty Innovation and G-Tech Medical, I contributed to the GutTracker GI motility monitoring patch by conducting hydrogel reliability experiments, performing Fourier-transform analysis, and measuring battery power demand using C++ and NI hardware. I also gained exposure to medtech innovation strategy, regulatory processes, and investor readiness.
 
-Projects
+In the Cardiothoracic Surgery Lab, I performed PCR-based genotyping for Loeys-Dietz Syndrome and maintained cardiac muscle cell cultures. Outside the lab, I competed as an NCAA Division I wide receiver at Stanford and Rice, where I developed discipline, resilience, and strong time-management skills. Serving as chairman of the Girard Debate Society strengthened my leadership, public speaking, and organizational abilities.
 
-My engineering and software projects span computational modeling, hardware prototyping, and applied biomedical design. I collaborated with physicians to develop a pressure-sensing self-retaining retractor aimed at reducing spinal surgery complications by providing improved intraoperative feedback. I also designed a layered catheter prototype to mitigate biofilm infections, supported by stakeholder interviews, market analysis, requirements engineering, and full documentation.
+## Projects
 
-On the computational side, I built a machine learning model to predict college football play-calling tendencies, combining CFBD API data with Scikit-Learn algorithms and clear visualizations to interpret model predictions. I developed a Python library for neural network simulation, enabling analysis of spatiotemporal signaling efficiency in hardware-inspired architectures. Additionally, I engineered an Arduino-based centrifuge featuring custom circuit design, a PID controller, and an event-driven interface. Across all projects, I focus on building reliable systems, understanding user requirements, and translating ideas into functioning prototypes or analytical tools.
+My projects include work in computational modeling, medical device design, and hardware engineering. I collaborated with physicians to design a pressure-sensing self-retaining retractor intended to reduce spinal surgery complications through intraoperative feedback. I also developed a layered catheter prototype aimed at reducing biofilm-related infections, supported by market research, stakeholder interviews, and complete technical documentation.
 
-Technical & Soft Skills
+In software and analytics, I created a machine learning model that predicts college football play-calling tendencies using the CFBD API and Scikit-Learn, presenting the results through clear visualizations. I also developed a Python library for simulating neural networks to study spatiotemporal signaling efficiency, and I engineered an Arduino-based centrifuge with custom circuitry, a PID controller, and an event-driven interface. Across these projects, I emphasize reliable engineering, clear documentation, and solutions guided by real user needs.
 
-I am proficient in Python, C++, Java, and JavaScript, with experience in R, React Native, OpenGL, and various scientific computing workflows. My technical capabilities include image processing, data analysis, embedded systems, hardware interfacing, and machine learning. I enjoy working in settings that require integrating software, hardware, and quantitative reasoning.
+## Technical and Soft Skills
 
-My soft skills have been shaped by leadership roles, high-level athletics, and collaborative engineering projects. I communicate clearly, work effectively in teams, and approach challenges with discipline and adaptability. Whether managing responsibilities in research labs, medtech startups, or competitive sports, I bring a combination of technical precision and dependable execution.
+I am proficient in Python, C++, Java, and JavaScript, and I have experience with data analysis, image processing, embedded systems, and machine learning. My engineering work combines software, hardware, and analytical reasoning, and I enjoy approaching problems from both a systems and user-centered perspective.
 
-Documents
+My soft skills have been shaped by leadership roles, high-level athletics, and interdisciplinary project teams. I communicate clearly, work well under pressure, and bring discipline, consistency, and adaptability to every environment I work in.
 
-This website presents selected experiences, projects, and skills from my work across engineering, research, athletics, and leadership. Additional documents—including project write-ups, technical reports, and full résumés—can be added or linked here to provide deeper insight into my background and work.
+## Documents
+
+This website highlights selected experiences, projects, and skills from my engineering, research, athletics, and leadership background. Additional documents such as project write-ups, technical reports, and résumés can be added or linked as needed to provide more depth into my work.
